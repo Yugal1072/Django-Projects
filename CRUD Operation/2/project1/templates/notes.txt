@@ -1,0 +1,21 @@
+Hello sir Good morning , sorry for the late submission, I was sick due to cold.
+
+1. so now i am starting my task given by you.
+
+2. I just created a project and app and give its directory to the setting.py
+
+3. from 6:14  (min:sec), I created a new file of HTML.
+
+4. So to save time, I am going to use codepen for the structure of CRUD table 
+
+5. from 9:00 (min:sec) , I rendered the index.html
+
+6. Sorry for the inconvinience, i just download the 3rd party software to record my screen and it has limit of 10 min/video only.
+
+7. The page has been rendered and now I am giving it functioning. second video 2.23 (min:sec)
+
+8. second video 5:45 (min:sec), I am creating a new superuser for admin.
+
+9. Now the Employees class has not shown in the admin panel, so i have to make it register.
+
+10. 
