@@ -33,7 +33,7 @@ def loginPage(request):
     
     if request.method=="POST":
         
-        = request.POST['username']
+        username1 = request.POST['username']
         password1 = request.POST['password']
         user = authenticate(request,username=username1, password=password1)
         if user is not None:
